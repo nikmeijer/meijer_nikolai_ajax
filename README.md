@@ -2,6 +2,9 @@
 
 Earbuds site with hotspots and material descriptions
 
+## Mistake
+made everything before creating github repo... oops
+
 ## Contributing
 
 1. Fork it!
